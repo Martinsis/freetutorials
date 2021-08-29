@@ -1,0 +1,41 @@
+body {
+    padding: 30px;
+    
+}
+
+h1 {
+    font-size: 55px;
+    
+    color: #bada55;
+}
+
+p,
+ul,
+ol,
+dt,
+dd {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 30px;
+} 
+ul,
+ol {
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} 
+.trolnamed {
+    border: 1px solid orangered;
+    text-decoration: underline;
+    background: rgb(92, 192, 218);
+    cursor: pointer;
+}
+a {
+    text-decoration: none;
+    color: rgb(235, 113, 68);
+    border: 1px solid black;
+    background: rgba(168, 164, 164, 0,9);
+    font-size: 22px;
+    
+}

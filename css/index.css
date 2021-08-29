@@ -1,0 +1,24 @@
+body {
+    padding: 30px;
+    font-family: monospace;
+   
+}
+h1 {
+    font-size: 40px;
+}
+strong,
+b {
+    color: orangered;
+    font-family: serif;
+}
+ul {
+    font-size: 18px;
+}
+em {
+    color: orange;
+}
+a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
